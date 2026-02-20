@@ -34,8 +34,7 @@ Key aspects include:
 - PHP for quiz database connection  
 
 **Backend:**  
-- Node.js  
-- Express.js  
+- Node.js 
 - Controllers, models, and routes for handling server-side logic  
 
 **Database:**  
